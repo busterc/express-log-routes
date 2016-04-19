@@ -1,10 +1,8 @@
 'use strict';
 
 var exec = require('child_process').exec;
-var http = require('http');
 var test = require('tap').test;
 var express = require('express');
-var request = require('request');
 var LogRoutes = require('./index.js');
 
 test('this should see valid routes and not see invalid routes', t => {
