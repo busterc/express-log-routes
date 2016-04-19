@@ -1,0 +1,39 @@
+{
+  "name": "express-log-routes",
+  "version": "1.0.0",
+  "description": "console.log available Express routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/tap test.js --coverage-report=text",
+    "lint": "./node_modules/.bin/eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/busterc/express-log-routes.git"
+  },
+  "keywords": [
+    "express",
+    "log",
+    "list",
+    "routes",
+    "route",
+    "paths",
+    "path",
+    "console",
+    "get",
+    "view",
+    "show"
+  ],
+  "author": "Buster Collings <busterc@gmail.com> (https://about.me/buster)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/busterc/express-log-routes/issues"
+  },
+  "homepage": "https://github.com/busterc/express-log-routes#readme",
+  "devDependencies": {
+    "eslint": "^2.8.0",
+    "eslint-config-xo-space": "^0.12.0",
+    "express": "^4.13.4",
+    "tap": "^5.7.1"
+  }
+}
