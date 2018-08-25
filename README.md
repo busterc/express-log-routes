@@ -1,5 +1,7 @@
 # express-log-routes [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/busterc/express-log-routes.svg)](https://greenkeeper.io/)
+
 > console.log available Express routes 
 
 ## Installation
